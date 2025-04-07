@@ -277,6 +277,8 @@ section h2::after {
   font-size: 1.25rem;
   font-weight: 600;
   margin-bottom: 0.75rem;
+  padding-top: 5px;
+  padding-left: 25px;
   color: #ea384c;
 }
 
